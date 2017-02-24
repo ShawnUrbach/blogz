@@ -70,3 +70,8 @@ nav ul li {
 nav #user-account {
     float: right;
 }
+
+.authorCite {
+    font-style: italic;
+    font-size: 80%;
+}
